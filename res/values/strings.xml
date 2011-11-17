@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inside Higher Ed</string> 
+    <string name="ads_key">69f795d5e399400bab8f6e3dd638c67a</string>   
+    <string name="tab1_name">News</string>  
+    <string name="tab1_url">http://www.insidehighered.com/news/feed</string>
+    <string name="tab2_name">Views</string>
+    <string name="tab2_url">http://www.insidehighered.com/feed/atom/views</string>
+    <string name="tab3_name">Blogs</string>
+    <string name="tab3_url">http://www.insidehighered.com/blogs/feed/all</string>
+    <string name="tab4_name">Careers</string>
+    <string name="tab4_url">http://www.insidehighered.com/feed/atom/advice</string>  
+    <string name="tab5_name">Bla</string>    
+    <string name="tab5_url">Bla</string>    
+    <string name="tab6_name">Bla2</string>  
+    <string name="tab6_url">Bla2</string>                  
+    <string name="about_title">About: Inside Higher Ed</string>      
+    <string name="about_text">Inside Higher Ed is the online source for news, opinion and jobs for all of higher education. Whether you\'re an adjunct or a vice president, a grad student or an eminence grise, we\'ve got what you need to thrive in your job or find a better one: breaking news and feature stories, provocative daily commentary, areas for comment on every article, practical career columns, and a powerful suite of tools to help higher education professionals get jobs and colleges identify and hire employees.\n\nFor more information about the site and the people who produce it, please visit our staff page. For any other questions you might have, please contact us at info@insidehighered.com. And if you have comments on or suggestions about what you see on the site this week, please e-mail us at info@insidehighered.com and let us know what you think.</string>        
+</resources>
